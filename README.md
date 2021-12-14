@@ -70,3 +70,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 `npx create-react-app fish-react`
+
+https://pages.github.com/, 'GitHub Pages'
+
+- https://stackoverflow.com/questions/63964575/fatal-a-branch-named-gh-pages-already-exists
+  rd .\node_modules\.cache\gh-pages
+
+Project page: https://gkocot.github.io/fish-react/
